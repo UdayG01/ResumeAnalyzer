@@ -40,6 +40,8 @@ def generate_response(model, file_path):
     response = structured_llm.invoke(texts)
     return response
 
+
+# Adding local test function for testing with Mistral   
 # Testing the module
 # mistral = load_model()
 # file_path = "input_resumes/ML-resume-sample1.pdf"
