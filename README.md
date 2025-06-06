@@ -94,7 +94,7 @@ Resume Analyzer is a tool designed to process PDF resumes, extract relevant info
 - **Detailed Reports**: Generates detailed Excel reports with extracted data and scores.
 
 
-## 📐 Workflow
+## 📐 Workflow Graph
 
 ```plaintext
 +-------------------+       +-------------------+       +-------------------+
